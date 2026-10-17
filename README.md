@@ -2,53 +2,29 @@
 
 # Hi, I'm Adriel 👋
 
-### Mechanical & Aerospace Engineer · Models, satellites and sensors for tropical peat
-
-I build verified models of water in tropical peat, so that the people rewetting peatlands in Kalimantan can see what their canals are doing.
-
-<img src="https://komarev.com/ghpvc/?username=adibatic&label=PROFILE%20VIEWS&style=for-the-badge&color=2a78d6" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/adibatic?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=181717" alt="Followers" />
+Learning to model water in tropical peat<br>
+BE Mechanical & Aerospace Engineering, Tohoku University
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 📌 Projects
 
-- 🎓 BSc Mechanical and Aerospace Engineering, Tohoku University
-- 🔭 Currently building **PeatGuard**: monitoring for peat rewetting in Kalimantan, from satellites, verified models and low-cost sensors
-- 🧪 Every project answers one question and is checked against an exact solution or a published reference, with automated tests
-- 📚 Learning by building: I follow step-by-step guides written with an AI assistant, and type, run and check every line myself
-- 💬 Ask me about: shallow-water and groundwater solvers, verification (order of accuracy, GCI), OpenFOAM, ESP32
+### 🛰️ Working towards: PeatGuard (private)
 
----
+The aim: show where a peat dome is drying, sinking and burning, estimate what its water table may do next dry season, and measure water levels to check both. It stays private until a field pilot validates it.
 
-## 📌 Featured Projects
+Built step by step in public, as the **Kalimantan peat series**:
 
-### 🛰️ PeatGuard (current, private)
+- 💧 **[01 · Canal weirs](https://github.com/adibatic/kalimantan-peat-01-canal-weirs)**: how far a weir raises a canal, and how much water it holds. A 1-D shallow-water solver, verified against exact answers.
+- 🌱 **[02 · Peat water](https://github.com/adibatic/kalimantan-peat-02-groundwater)** *(building)*: how far a canal drains the peat, and why drying peat drains itself more slowly. A groundwater solver for a peat strip between two canals.
+- ⏳ *Next: real canal maps and elevation, a satellite baseline, climate data.*
 
-**Stack:** Python · satellite data · ESP32 + LoRa<br>
-Where a peat dome is drying, sinking and burning, what its water table will do next dry season, and measured water levels to check both. Opens up after a field pilot validates it.
+### 🗂️ Other projects
 
-### 💧 [Kalimantan peat 01: Canal weirs](https://github.com/adibatic/kalimantan-peat-01-canal-weirs)
-
-**Stack:** Python · NumPy · SciPy · pytest<br>
-A 1-D shallow-water solver, verified against exact answers: how far a weir raises a canal, and how much water it holds.
-
-### 🌱 [Kalimantan peat 02: Peat water](https://github.com/adibatic/kalimantan-peat-02-groundwater) (building)
-
-**Stack:** Python · NumPy · SciPy · pytest<br>
-An implicit groundwater solver for a peat strip between two canals: how far a canal drains the peat, and why drying peat drains itself more slowly.
-
-### 🌀 [Cylinder CFD V&V](https://github.com/adibatic/cfd-vv-cylinder)
-
-**Stack:** OpenFOAM · Python<br>
-Flow past a cylinder at Re = 66,667, with mesh and time-step convergence studies.
-
-### 🤖 [Gripper haptics](https://github.com/adibatic/gripper-haptic)
-
-**Stack:** ESP32<br>
-BSc thesis: tactile-feedback teleoperation.
+- 🌀 **[Cylinder CFD V&V](https://github.com/adibatic/cfd-vv-cylinder)**: flow past a cylinder at Re = 66,667, with mesh and time-step convergence studies. Where I learned to verify a solver.
+- 🤖 **[Gripper haptics](https://github.com/adibatic/gripper-haptic)**: BE final project, tactile-feedback teleoperation on ESP32.
 
 ---
 
@@ -67,6 +43,18 @@ BSc thesis: tactile-feedback teleoperation.
 
 ---
 
+## 📨 Contact
+
+<div align="center">
+
+Working on peat rewetting or water management in Indonesia? I'd like to hear what you measure and what you need.
+
+[paa.ge/adrielsantoso](https://paa.ge/adrielsantoso)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -74,10 +62,9 @@ BSc thesis: tactile-feedback teleoperation.
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adibatic&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="49%" />
 </p>
 
----
-
 <div align="center">
 
-Working on peat rewetting or water management in Indonesia? I'd like to hear what you measure and what you need.
+<img src="https://komarev.com/ghpvc/?username=adibatic&label=PROFILE%20VIEWS&style=for-the-badge&color=2a78d6" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/adibatic?style=for-the-badge&label=FOLLOWERS&color=181717" alt="Followers" />
 
 </div>
