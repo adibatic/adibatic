@@ -36,7 +36,7 @@ Built step by step in public, as the **Kalimantan peat series**:
 
 | Category | Technologies |
 |---|---|
-| **Modelling** | Python, NumPy, SciPy, Matplotlib, OpenFOAM |
+| **Modelling** | Python, OpenFOAM |
 | **Testing & CI** | pytest, GitHub Actions |
 | **Hardware** | ESP32 |
 | **Learning next** | QGIS, GDAL, Earth Engine, PostGIS, LoRa |
