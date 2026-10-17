@@ -2,7 +2,6 @@
 
 # Hi, I'm Adriel 👋
 
-Learning to model water in tropical peat<br>
 BE Mechanical & Aerospace Engineering, Tohoku University
 
 </div>
@@ -18,12 +17,12 @@ The aim: show where a peat dome is drying, sinking and burning, estimate what it
 Built step by step in public, as the **Kalimantan peat series**:
 
 - 💧 **[01 · Canal weirs](https://github.com/adibatic/kalimantan-peat-01-canal-weirs)**: how far a weir raises a canal, and how much water it holds. A 1-D shallow-water solver, verified against exact answers.
-- 🌱 **[02 · Peat water](https://github.com/adibatic/kalimantan-peat-02-groundwater)** *(building)*: how far a canal drains the peat, and why drying peat drains itself more slowly. A groundwater solver for a peat strip between two canals.
-- ⏳ *Next: real canal maps and elevation, a satellite baseline, climate data.*
+- 🌱 **[02 · Peat water](https://github.com/adibatic/kalimantan-peat-02-groundwater)** *(up next)*: how far a canal drains the peat, and why drying peat drains itself more slowly. A groundwater solver for a peat strip between two canals.
+- ⏳ *After that: real canal maps and elevation, a satellite baseline, climate data.*
 
 ### 🗂️ Other projects
 
-- 🌀 **[Cylinder CFD V&V](https://github.com/adibatic/cfd-vv-cylinder)**: flow past a cylinder at Re = 66,667, with mesh and time-step convergence studies. Where I learned to verify a solver.
+- 🌀 **[Cylinder CFD V&V](https://github.com/adibatic/cfd-vv-cylinder)**: flow past a cylinder at Re = 66,667, with mesh and time-step convergence studies.
 - 🤖 **[Gripper haptics](https://github.com/adibatic/gripper-haptic)**: BE final project, tactile-feedback teleoperation on ESP32.
 
 ---
