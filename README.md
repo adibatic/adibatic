@@ -26,6 +26,14 @@ Small projects, each answering one question and checked against an exact answer 
 
 ---
 
+## 📄 Publication
+
+**A. I. Santoso** and L. B. Ho, [Optimized quantum sensor networks for ultralight dark matter detection](https://doi.org/10.1103/rv43-54zq), *Phys. Rev. D* **112**, L081301 (2025). [arXiv:2505.21188](https://arxiv.org/abs/2505.21188)
+
+Designing a network of sensors to pull a faint signal out of noise, then estimating it with Bayesian inference. A different field, but the same question as the water work: how well can we measure this?
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
