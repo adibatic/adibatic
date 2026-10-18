@@ -2,6 +2,7 @@
 
 # Hi, I'm Adriel 👋
 
+Learning to model and measure water systems<br>
 BE Mechanical & Aerospace Engineering, Tohoku University
 
 </div>
@@ -10,19 +11,17 @@ BE Mechanical & Aerospace Engineering, Tohoku University
 
 ## 📌 Projects
 
-### 🛰️ Working towards: PeatGuard (private)
+### 💧 Water systems series
 
-The aim: show where a peat dome is drying, sinking and burning, estimate what its water table may do next dry season, and measure water levels to check both. It stays private until a field pilot validates it.
+Small projects, each answering one question and checked against an exact answer or a published study. Focused on Bali's water for now: irrigation canals, groundwater and coastal wells. Kalimantan's peatlands come later, with the same tools.
 
-Built step by step in public, as the **Kalimantan peat series**:
-
-- 💧 **[01 · Canal weirs](https://github.com/adibatic/kalimantan-peat-01-canal-weirs)**: how far a weir raises a canal, and how much water it holds. A 1-D shallow-water solver, verified against exact answers.
-- 🌱 **[02 · Peat water](https://github.com/adibatic/kalimantan-peat-02-groundwater)** *(up next)*: how far a canal drains the peat, and why drying peat drains itself more slowly. A groundwater solver for a peat strip between two canals.
-- ⏳ *After that: real canal maps and elevation, a satellite baseline, climate data.*
+- 🌊 **[01 · Canal weirs](https://github.com/adibatic/water-01-canal-weirs)**: how far a weir raises a canal, and how much water it holds. A 1-D shallow-water solver, verified against exact answers.
+- 🌱 **02 · Groundwater** *(up next)*: how do recharge and pumping raise and lower the water table?
+- ⏳ *Next: how subak dividers share irrigation water, rice fields lost from space, seawater in coastal aquifers.*
 
 ### 🗂️ Other projects
 
-- 🌀 **[Cylinder CFD V&V](https://github.com/adibatic/cfd-vv-cylinder)**: flow past a cylinder at Re = 66,667, with mesh and time-step convergence studies.
+- 🌀 **[Cylinder CFD V&V](https://github.com/adibatic/cfd-vv-cylinder)**: flow past a cylinder at Re = 66,667, with mesh and time-step convergence studies. Where I learned to verify a solver.
 - 🤖 **[Gripper haptics](https://github.com/adibatic/gripper-haptic)**: BE final project, tactile-feedback teleoperation on ESP32.
 
 ---
@@ -38,7 +37,7 @@ Built step by step in public, as the **Kalimantan peat series**:
 | **Modelling** | Python, OpenFOAM |
 | **Testing & CI** | pytest, GitHub Actions |
 | **Hardware** | ESP32 |
-| **Learning next** | QGIS, GDAL, Earth Engine, PostGIS, LoRa |
+| **Learning next** | QGIS, Earth Engine, PostGIS, water-level and salinity sensors |
 
 ---
 
@@ -46,7 +45,7 @@ Built step by step in public, as the **Kalimantan peat series**:
 
 <div align="center">
 
-Working on peat rewetting or water management in Indonesia? I'd like to hear what you measure and what you need.
+Working on water in Bali, whether irrigation, groundwater or wells? I'd like to hear what you measure and what you need.
 
 [paa.ge/adrielsantoso](https://paa.ge/adrielsantoso)
 
@@ -60,10 +59,3 @@ Working on peat rewetting or water management in Indonesia? I'd like to hear wha
   <img src="https://streak-stats.demolab.com/?user=adibatic&theme=dark&hide_border=true" alt="GitHub streak" width="49%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adibatic&layout=compact&theme=dark&hide_border=true" alt="Top languages" width="49%" />
 </p>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=adibatic&label=PROFILE%20VIEWS&style=for-the-badge&color=2a78d6" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/adibatic?style=for-the-badge&label=FOLLOWERS&color=181717" alt="Followers" />
-
-</div>
