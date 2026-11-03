@@ -2,7 +2,7 @@
 
 # Hi, I'm Adriel 👋
 
-Mechanical & aerospace engineer: robotics, embedded hardware and simulation<br>
+Interested in robotics, embedded hardware and simulation<br>
 BE Mechanical & Aerospace Engineering, Tohoku University
 
 </div>
@@ -16,11 +16,7 @@ BE Mechanical & Aerospace Engineering, Tohoku University
 - 🌀 **[Cylinder CFD V&V](https://github.com/adibatic/cfd-cylinder)**: flow past a cylinder at Re = 66,667 in OpenFOAM, with mesh and time-step convergence studies.
 - 💧 **[Water systems series](https://github.com/adibatic/water-01-canal-weirs)**: small modelling projects, each checked against an exact answer or a published study. First up: a 1-D shallow-water solver for canal weirs.
 
----
-
-## 📄 Publication
-
-**A. I. Santoso** and L. B. Ho, [Optimized quantum sensor networks for ultralight dark matter detection](https://doi.org/10.1103/rv43-54zq), *Phys. Rev. D* **112**, L081301 (2025). [arXiv:2505.21188](https://arxiv.org/abs/2505.21188)
+During a research support role I also helped with a quantum sensor network study, [published in *Phys. Rev. D*](https://doi.org/10.1103/rv43-54zq) (2025).
 
 ---
 
