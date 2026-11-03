@@ -11,7 +11,6 @@ BE Mechanical & Aerospace Engineering, Tohoku University
 
 ## 📌 Projects
 
-- 🤖 **[Gripper haptics](https://github.com/adibatic/gripper-haptic)**: BE final project. Tactile-feedback teleoperation with ESP32-C6 firmware driving vibration and pin actuators, tested in a 22-person user study.
 - 🦾 **[3-DOF manipulator](https://github.com/adibatic/3dof-manipulator)**: a stepper-driven robot arm designed in SOLIDWORKS, with drawings and drive-train sizing.
 - 🌀 **[Cylinder CFD V&V](https://github.com/adibatic/cfd-cylinder)**: flow past a cylinder at Re = 66,667 in OpenFOAM, with mesh and time-step convergence studies.
 - 💧 **[Water systems series](https://github.com/adibatic/water-01-canal-weirs)**: small modelling projects, each checked against an exact answer or a published study. First up: a 1-D shallow-water solver for canal weirs.
