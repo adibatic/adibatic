@@ -1,15 +1,15 @@
 # Hi, I'm Adriel
 
-Learning the foundations of quantum sensing of the human body, in public.<br>
+decoding the new world // technology · economy · meaning<br>
 BE Mechanical & Aerospace Engineering, Tohoku University.
 
 ## Now
 
-Working through linear algebra, with daily notes on [X](https://x.com/adrielxsantoso).
+Working through linear algebra, with daily notes on [X](https://x.com/adrielxsantoso) and Substack.
 
 ## Upcoming
 
-**qsense-01-toy-magnetometer** (Dec 2026): a simulated spin precession signal with noise, fitted to recover the magnetic field.
+**qsense-01-toy-magnetometer** (Jan 2027): a simulated spin precession signal with noise, fitted to recover the magnetic field.
 
 ## Background
 
