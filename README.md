@@ -22,5 +22,4 @@ During a research support role I helped with a quantum sensor network study, [pu
 | **Languages** | Python, C/C++ (basic) |
 | **Embedded** | ESP32, MicroPython, serial, Modbus RTU |
 | **Hardware & CAD** | SOLIDWORKS, 3D printing, soldering |
-| **Simulation** | OpenFOAM, ParaView |
 | **Testing & CI** | pytest, GitHub Actions |
