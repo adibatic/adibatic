@@ -5,7 +5,7 @@ BE Mechanical & Aerospace Engineering, Tohoku University.
 
 ## Now
 
-Working through linear algebra, with daily notes on [X](https://x.com/adrielxsantoso) and Substack.
+Working through linear algebra, with daily notes on [X](https://x.com/adrielxsantoso) and [Substack](https://substack.com/@adrielsantoso).
 
 ## Upcoming
 
