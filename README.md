@@ -1,6 +1,6 @@
 # Hi, I'm Adriel
 
-decoding the new world // technology · economy · meaning<br>
+Decoding the new world // technology · economy · meaning.<br>
 BE Mechanical & Aerospace Engineering, Tohoku University.
 
 ## Now
